@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+table{
+    border: 1px solid orange;
+    border-collapse: collapse;
+}
+table tr th{
+    border: 1px solid orange;
+}
